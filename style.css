@@ -3,7 +3,20 @@ body{
     padding: 0;
     background-image: linear-gradient(to right, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
   
-  }p{bottom: 0%;position:absolute;left:40%}h2{margin-bottom:60px;}
+  }
+p{
+    bottom: 0%;
+    position:absolute;
+    left:40%
+}
+h3{
+    bottom: 0%;
+    position:absolute;
+    left:40%
+}
+h2{
+    margin-bottom:60px;
+}
   .container{
     text-align: center;
     margin-top: 200px;
