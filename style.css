@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-image: linear-gradient(to right, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+    font-family:'reboto','sans-serif';
   
   }
 p{
@@ -10,7 +11,7 @@ p{
     left:40%
 }
 h3{
-    bottom: 0%;
+    bottom: 10%;
     position:absolute;
     left:40%
 }
